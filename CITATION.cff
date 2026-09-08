@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated scientific article."
+title: "Parallel Molecular Dynamics: Python/MPI, C++/MPI, and MATLAB/parfor"
+type: software
+version: "1.0.0"
+date-released: 2026-09-08
+
+authors:
+  - family-names: "Zabegaev"
+    given-names: "Dmitriy"
+
+abstract: >
+  Source code for a comparative experimental investigation of the scalability
+  of parallel implementations of a molecular dynamics algorithm using
+  Python/MPI, C++/MPI, and MATLAB/parfor.
+
+keywords:
+  - molecular dynamics
+  - Lennard-Jones potential
+  - parallel computing
+  - MPI
+  - Python
+  - C++
+  - MATLAB
+  - scalability
+  - performance
+
+license: MIT
