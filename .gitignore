@@ -1,0 +1,102 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+
+# =========================
+# C / C++
+# =========================
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+
+# =========================
+# MATLAB
+# =========================
+
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# Compiled MEX files
+*.mex*
+
+# MATLAB generated directories
+slprj/
+codegen/
+
+# MATLAB project files generated locally
+*.mlproj
+
+
+# =========================
+# Operating system files
+# =========================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+
+# macOS
+.DS_Store
+
+
+# =========================
+# IDE / editor files
+# =========================
+
+.vscode/
+.idea/
+.vs/
+
+
+# =========================
+# Logs and temporary files
+# =========================
+
+*.log
+*.tmp
+*.bak
+
+
+# =========================
+# Local experiment output
+# =========================
+
+results/
+output/
+tmp/
+temp/
